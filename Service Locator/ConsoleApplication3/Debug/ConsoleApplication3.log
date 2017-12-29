@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ConsoleApplication3.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  RandomNum.cpp
+  Random.cpp
+  locator.cpp
+  ConsoleApplication3.cpp
+  Generating Code...
+  ConsoleApplication3.vcxproj -> c:\Users\david\Source\Repos\ConsoleApplication3\Debug\test.exe
+  ConsoleApplication3.vcxproj -> c:\Users\david\Source\Repos\ConsoleApplication3\Debug\test.pdb (Partial PDB)
